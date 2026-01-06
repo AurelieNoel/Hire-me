@@ -1,7 +1,8 @@
 # AURELIE NOEL
 | Spatial thinking for bridging people, place, and systems |<br />
 <br />
-My main goal is to use spatial data to develop local, sustainable and meaningful environmental projects, building resilient economy and society (*or how I would be a perfect addition for NestAI - in a nutshell*)
+My main goal is to use spatial data to develop local, sustainable and meaningful environmental projects, building resilient economy and society.<br />
+*How I would be a perfect addition for NestAI - my next idea is about using AI to spot AI-generated maps, something the best cartographers argue can't be done - up for the challenge?!*
 <br />
 ## Profile
 Geomatics and data scientist<br />
@@ -13,6 +14,7 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 
 ## Expertise
 + Spatial data science
++ Data collection - fieldwork/GPS, drone imageries, IoT sensors, VR/AR, crowdsourcing/GeoApp 
 + Optical and radar remote sensing - see [Msc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_PostMSC_2008.pdf) - abstract in English - feeding recent [work](https://www.researchgate.net/publication/307665020_Recent_land_subsidence_caused_by_the_rapid_urban_development_in_the_Hanoi_region_Vietnam_using_ALOS_InSAR_data)
 + Machine learning + experience with supercomputer LUMI
 + Predictive modelling - see [MSc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_Thesis_2022.pdf) or [quick maps overview](https://raw.githubusercontent.com/AurelieNoel/resume/main/Beluga_habitat_modelling.pdf)
