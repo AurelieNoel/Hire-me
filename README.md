@@ -1,8 +1,7 @@
 # AURELIE NOEL
 | Spatial thinking for bridging people, place, and systems |<br />
-<br />
 <!--My main goal is to use spatial data to develop local, sustainable and meaningful environmental projects, building resilient economy and society.<br /> -->
-*How I would be a perfect addition for NestAI - my next idea is about using AI to spot AI-generated maps, something the best cartographers argue can't be done - up for the challenge?!*
+*How I would be a perfect addition for NestAI - in the nutshell*
 <br />
 ## Profile
 Geomatics and data scientist<br />
@@ -48,3 +47,5 @@ Project portfolio overview:
 
 ## Other sort of hobbies
 Sailing, travelling
+
+*Need more convincing on how would I be a perfect addition for NestAI? - My next idea is about using AI to spot AI-generated maps, something the best cartographers argue can't be done - up for the challenge?!*
