@@ -36,7 +36,7 @@ Project portfolio overview:
 + [NylAF - agroforestry design](https://arcg.is/0OjGve0)
 + [Red-Throated divers - habitat modelling](https://raw.githubusercontent.com/AurelieNoel/resume/main/red-throated_divers_modelling.pdf)<br />
 
-**Since Jan 2023** - Sole owner at Terrae Geomatics Environmental Services (Finland)<br />
+**Since 2023** - Sole owner at Terrae Geomatics Environmental Services (Finland)<br />
 **May 2022 to August 2023** - Geomatics Analyst and Cartograph Professional at [Pesca Environment](https://pescaenv.com/en/expertise) (Canada)
 
 ## Higher education
