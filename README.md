@@ -19,7 +19,7 @@ For comprehensive and detailed experience, publications and portfolio: <br />
 + Conventional and webmapping
 + Machine learning + experience with supercomputer LUMI
 + Predictive modelling e.g., habitat suitability and distribution modelling in my [paper](https://cdnsciencepub.com/doi/10.1139/as-2022-0003), [MSc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_Thesis_2022.pdf) or [quick maps overview](https://raw.githubusercontent.com/AurelieNoel/resume/main/Beluga_habitat_modelling.pdf)
-+ Interdisciplinary project management
++ Interdisciplinary project management, Atlassian suite
 
 ## Main skills
 + Geographic Information Systems - ESRI suite, QGIS
@@ -32,7 +32,8 @@ For comprehensive and detailed experience, publications and portfolio: <br />
 + Multilingual: EN, FR, IT, SW
 
 ## Recent professional experience
-**Since 2023** - Project leader for the [Spatial Competence Centre](https://www.novia.fi/scc/) and team leader for the [Geospatial Systems team](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/research-area-in-bioeconomy/geospatial-systems) at Novia University of Applied Sciences (Finland)<br />
+**Since May 2026** - Technical staff for [NestAI](https://www.nestai.com/) - GIS, data and annotation manager, bridging data and training  
+**August 2023 - May 2026** - Project leader for the [Spatial Competence Centre](https://www.novia.fi/scc/) and team leader for the [Geospatial Systems team](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/research-area-in-bioeconomy/geospatial-systems) at Novia University of Applied Sciences (Finland)<br />
 Project portfolio overview: 
 + [Energy master plan - green transition support](https://arcg.is/1SaKrq3)
 + [Case Västerby - sustainable forestry](https://arcg.is/1vDnK11)
